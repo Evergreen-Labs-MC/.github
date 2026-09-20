@@ -1,6 +1,6 @@
 # Maple Leaf Studios
-[![Find us on Modrinth](https://github.com/Maple-Leaf-MC/.github/blob/main/modrinth.svg)](https://modrinth.com/organization/mapleleaf) [![View on GitHub](https://github.com/Maple-Leaf-MC/.github/blob/main/github.svg)](https://github.com/Maple-Leaf-MC)
----
+
+[![Find us on Modrinth](https://raw.githubusercontent.com/Evergreen-Labs-MC/PvP-Tweaks/main/assets/badges/find-modrinth.svg)](https://modrinth.com/resourcepack/pvptweaks+) [![Find us on GitHub](https://raw.githubusercontent.com/Evergreen-Labs-MC/PvP-Tweaks/main/assets/badges/find-github.svg)](https://github.com/Evergreen-Labs-MC/PvP-Tweaks) [![Donate on Ko-fi](https://raw.githubusercontent.com/Evergreen-Labs-MC/PvP-Tweaks/main/assets/badges/donate-kofi.svg)](https://ko-fi.com/YOUR_USERNAME)
 
 Here at Maple Leaf Studios, We create high-quality Minecraft resource and music packs that enhance gameplay, performance, and atmosphere while staying true to Minecraft's iconic style.
 
